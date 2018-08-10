@@ -9,4 +9,6 @@
 * [Startup Operation](startup-operation.md)
 * [Best quotes](best-quotes.md)
 * [Logic gate](logic-gate.md)
+* [Debug skills](debug-skills/README.md)
+  * [Process Monitor](debug-skills/process-monitor.md)
 
