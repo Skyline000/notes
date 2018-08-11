@@ -11,4 +11,6 @@
 * [Logic gate](logic-gate.md)
 * [Debug skills](debug-skills/README.md)
   * [Process Monitor](debug-skills/process-monitor.md)
+* [Windows problem](windows-problem/README.md)
+  * [File explorer slow responding](windows-problem/file-explorer-slow-responding.md)
 
