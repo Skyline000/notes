@@ -2,13 +2,13 @@
 
 **Encryption**: Plaintext `XOR` Key = Ciphertext
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 
 
 **Decryption**: Ciphertext `XOR` Key = Plaintext
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 * Pad must be random, **used only once** 
 * Pad has the same size as message
