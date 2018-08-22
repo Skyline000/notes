@@ -28,4 +28,6 @@
   * [Process Monitor](debug-skills/process-monitor.md)
 * [Windows problem](windows-problem/README.md)
   * [File explorer slow responding](windows-problem/file-explorer-slow-responding.md)
+* [Git](git/README.md)
+  * [Source tree link with GitLab](git/source-tree-link-with-gitlab.md)
 

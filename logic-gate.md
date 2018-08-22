@@ -2,7 +2,7 @@
 
 ##  AND Gate
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
 | X | Y | Output |
 | :---: | :---: | :---: |
@@ -15,7 +15,7 @@
 
 ##  **OR Gate**
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 | X | Y | Output |
 | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 
 ##  **XOR gate**
 
-![](.gitbook/assets/image%20%2835%29.png)
+![](.gitbook/assets/image%20%2837%29.png)
 
 | X | Y | Output |
 | :---: | :---: | :---: |

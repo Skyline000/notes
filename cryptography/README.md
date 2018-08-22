@@ -2,11 +2,11 @@
 
 Cryptosystems most of them can be categorized into followings
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 
 
-![Reference: http://morris821028.github.io/2015/03/21/security-block-ciphers/](../.gitbook/assets/image%20%2855%29.png)
+![Reference: http://morris821028.github.io/2015/03/21/security-block-ciphers/](../.gitbook/assets/image%20%2860%29.png)
 
 {% page-ref page="stream-cipher.md" %}
 
