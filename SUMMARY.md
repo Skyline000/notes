@@ -34,4 +34,6 @@
   * [For loop](sql/for-loop.md)
 * [Java](java/README.md)
   * [Encrypt & Decrypt](java/encrypt-and-decrypt.md)
+* [SQL](sql/README.md)
+  * [Testing SQL query performance](sql/testing-sql-query-performance.md)
 

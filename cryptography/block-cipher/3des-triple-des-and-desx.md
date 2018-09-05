@@ -4,7 +4,7 @@
 
 two 56-bit keys
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 ## DESX
 
