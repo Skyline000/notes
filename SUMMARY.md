@@ -31,9 +31,8 @@
 * [Git](git/README.md)
   * [Source tree link with GitLab](git/source-tree-link-with-gitlab.md)
 * [SQL](sql/README.md)
+  * [Testing SQL query performance](sql/testing-sql-query-performance.md)
   * [For loop](sql/for-loop.md)
 * [Java](java/README.md)
   * [Encrypt & Decrypt](java/encrypt-and-decrypt.md)
-* [SQL](sql/README.md)
-  * [Testing SQL query performance](sql/testing-sql-query-performance.md)
 
