@@ -30,6 +30,7 @@
   * [File explorer slow responding](windows-problem/file-explorer-slow-responding.md)
 * [Git](git/README.md)
   * [Source tree link with GitLab](git/source-tree-link-with-gitlab.md)
+  * [Only merge few commit from a branch](git/only-merge-few-commit-from-a-branch.md)
 * [SQL](sql/README.md)
   * [Testing SQL query performance](sql/testing-sql-query-performance.md)
   * [For loop](sql/for-loop.md)

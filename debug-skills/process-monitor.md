@@ -4,7 +4,7 @@ Download link: [https://docs.microsoft.com/en-us/sysinternals/downloads/procmon]
 
 {% file src="../.gitbook/assets/processmonitor.zip" caption="Process Monitor v3.50" %}
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
  ProcMon把RegMon與FileMon的監控放在一起
 

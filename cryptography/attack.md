@@ -11,5 +11,5 @@
 
 The relative letter frequencies do not change during encryption
 
-![Average letter frequencies in English \(Beker and Piper, 1982\)](../.gitbook/assets/image%20%286%29.png)
+![Average letter frequencies in English \(Beker and Piper, 1982\)](../.gitbook/assets/image%20%287%29.png)
 
