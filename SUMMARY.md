@@ -28,6 +28,7 @@
   * [Process Monitor](debug-skills/process-monitor.md)
 * [Windows problem](windows-problem/README.md)
   * [File explorer slow responding](windows-problem/file-explorer-slow-responding.md)
+  * [MAX\_PATH issue](windows-problem/max_path-issue.md)
 * [Git](git/README.md)
   * [Source tree link with GitLab](git/source-tree-link-with-gitlab.md)
   * [Only merge few commit from a branch](git/only-merge-few-commit-from-a-branch.md)
@@ -37,9 +38,12 @@
 * [Java](java/README.md)
   * [Encrypt & Decrypt](java/encrypt-and-decrypt.md)
 * [Apache](apache.md)
+* [Python](python/README.md)
+  * [Installation](python/installation.md)
+  * [Install package by pip](python/install-package-by-pip.md)
 
 ## Testing
 
-* [Highlight](testing-1/highlight.md)
-* [Untitled](testing-1/untitled.md)
+* [Highlight](testing/highlight.md)
+* [Untitled](testing/untitled.md)
 

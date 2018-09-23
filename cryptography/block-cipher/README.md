@@ -1,6 +1,6 @@
 # Block Cipher
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 * A block cipher takes a block of plaintext and a secret key, produces a block of ciphertext. 
 * The key is _**reused**_ for different plaintext blocks 

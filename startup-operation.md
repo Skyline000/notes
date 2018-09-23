@@ -1,7 +1,3 @@
----
-description: 【黑鏡線索】「乜都自己砌」的思迷
----
-
 # Startup Operation
 
 【黑鏡線索】  

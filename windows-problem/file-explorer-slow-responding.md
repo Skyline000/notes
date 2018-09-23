@@ -4,13 +4,13 @@
 
 1. 開啟檔案總管，點選【檢視】--&gt;【選項】
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 
 
 2. 按下【**清除**】按鈕，就可以解決此問題！
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 原來 Windows 10 的「**快速存取**」\(Quick Access\) 就是拖慢我檔案總管執行速度的主因！
 
