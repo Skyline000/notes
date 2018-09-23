@@ -1,6 +1,8 @@
-# Apache
+# Forbidden
 
-  Forbidden - _You don't have permission to Access / on this server_
+{% hint style="danger" %}
+Forbidden - _You don't have permission to Access / on this server_
+{% endhint %}
 
 {% code-tabs %}
 {% code-tabs-item title="C:\\wamp64\\bin\\apache\\apache2.4.18\\conf\\extra\\httpd-vhosts.conf" %}
