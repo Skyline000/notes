@@ -1,7 +1,5 @@
 # Installation
 
-## Download
-
 Download from: [https://www.python.org/](https://www.python.org/)
 
 ![On the first screen, enable the &#x201C;Add Python 3.6 to PATH&#x201D; option](../.gitbook/assets/image%20%2831%29.png)
