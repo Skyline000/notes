@@ -6,7 +6,7 @@
 
 2. Open PuTTY authentication agent
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 3. Add the private key to pageant key list
 
@@ -14,5 +14,5 @@
 
 4. Now can clone from GitLab
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
