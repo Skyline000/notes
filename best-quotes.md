@@ -30,3 +30,7 @@ Two things define you: Your patience when you have nothing and your attitude whe
 
 這一路，不只這幾個月，還是這十幾年，我無法不改變，我一直在改變，但最不想改變的，永遠是初衷：做音樂的初衷，或是從每一件事情找到樂
 
+放棄一切，為自己，其實好易。放棄一切，但顧及家人，才想自己，才是不簡單
+
+
+
