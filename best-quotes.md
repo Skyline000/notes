@@ -32,5 +32,5 @@ Two things define you: Your patience when you have nothing and your attitude whe
 
 放棄一切，為自己，其實好易。放棄一切，但顧及家人，才想自己，才是不簡單
 
-
+ 每個選擇都伴隨著等價交換
 
