@@ -34,3 +34,5 @@ Two things define you: Your patience when you have nothing and your attitude whe
 
  每個選擇都伴隨著等價交換
 
+境隨念轉
+
