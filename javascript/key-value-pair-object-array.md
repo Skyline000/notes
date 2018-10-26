@@ -40,6 +40,15 @@ function search(nameKey, myArray){
 }
 ```
 
+
+
+Or just get the value like this
+
+```javascript
+array.find(o => o.campaignID === '1001'); //or
+array.find(o => o['campaignID'] === '1001')
+```
+
 ## All together
 
 ```javascript
@@ -84,6 +93,12 @@ console.log(resultObject.qty);
 2
 */
 
+console.log(array.find(o => o.campaignID === '1001'));
+console.log(array.find(o => o['campaignID'] === '1001'));
+/* print out, same with search function
+{campaignID: "1001", qty: "2", price: "50"}
+{campaignID: "1001", qty: "2", price: "50"}
+*/
 </script>
 ```
 
