@@ -104,3 +104,7 @@ console.log(array.find(o => o['campaignID'] === '1001'));
 
 
 
+
+
+Reference: [https://stackoverflow.com/questions/12462318/find-a-value-in-an-array-of-objects-in-javascript](https://stackoverflow.com/questions/12462318/find-a-value-in-an-array-of-objects-in-javascript)
+
