@@ -38,6 +38,8 @@
   * [For loop](sql/for-loop.md)
 * [Java](java/README.md)
   * [Encrypt & Decrypt](java/encrypt-and-decrypt.md)
+* [JavaScript](javascript/README.md)
+  * [Array with key value pair using object](javascript/key-value-pair-object-array.md)
 * [Apache](apache-1/README.md)
   * [Error](apache-1/error/README.md)
     * [Forbidden](apache-1/error/apache.md)
