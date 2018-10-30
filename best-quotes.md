@@ -36,3 +36,7 @@ Two things define you: Your patience when you have nothing and your attitude whe
 
 境隨念轉
 
+把小問題解決，就沒有大問題。
+
+做多少算多少，可以做的先做。
+
