@@ -27,6 +27,7 @@
 * [Debug skills](debug-skills/README.md)
   * [Process Monitor](debug-skills/process-monitor.md)
   * [Linux](debug-skills/linux.md)
+  * [Using your browser’s debugger instead of using console.log\(\) to debug](debug-skills/using-your-browsers-debugger-instead-of-using-console.log-to-debug.md)
 * [Windows problem](windows-problem/README.md)
   * [File explorer slow responding](windows-problem/file-explorer-slow-responding.md)
   * [MAX\_PATH issue](windows-problem/max_path-issue.md)
