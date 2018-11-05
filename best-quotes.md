@@ -40,3 +40,5 @@ Two things define you: Your patience when you have nothing and your attitude whe
 
 做多少算多少，可以做的先做。
 
+There's no controlling someone else's behavior, but how you react to it, that on you.
+
