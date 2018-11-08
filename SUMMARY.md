@@ -47,6 +47,9 @@
 * [Python](python/README.md)
   * [Installation](python/installation.md)
   * [Install package by pip](python/install-package-by-pip.md)
+* [R](r/README.md)
+  * [IDE for R](r/ide-for-r.md)
+  * [Common Error](r/common-error.md)
 
 ## Testing
 

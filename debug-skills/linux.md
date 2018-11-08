@@ -91,19 +91,19 @@ tsar是咱公司自己的采集工具。很好用, 将历史收集到的数据�
 tsar  ##可以查看最近一天的各项指标
 ```
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2864%29.png)
 
 ```text
 tsar --live ##可以查看实时指标，默认五秒一刷
 ```
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%2881%29.png)
 
 ```text
 tsar -d 20161218 ##指定查看某天的数据，貌似最多只能看四个月的数据
 ```
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 ```text
 tsar --mem
@@ -136,9 +136,9 @@ netstat -nat|awk  '{print $6}'|sort|uniq -c|sort -rn
 #查看当前连接，注意close_wait偏高的情况，比如如下
 ```
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
 Reference: [https://www.itcodemonkey.com/article/9926.html](https://www.itcodemonkey.com/article/9926.html)
 
