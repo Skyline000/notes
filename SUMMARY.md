@@ -50,6 +50,8 @@
 * [R](r/README.md)
   * [IDE for R](r/ide-for-r.md)
   * [Common Error](r/common-error.md)
+* [Computer Vision](computer-vision/README.md)
+  * [Computer Vision VS Computer Graphics](computer-vision/computer-vision-vs-computer-graphics.md)
 
 ## Testing
 
