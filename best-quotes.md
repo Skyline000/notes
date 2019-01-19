@@ -42,3 +42,9 @@ Two things define you: Your patience when you have nothing and your attitude whe
 
 There's no controlling someone else's behavior, but how you react to it, that on you.
 
+ 這一路，不只這幾個月，還是這十幾年，我無法不改變，我一直在改變，但最不想改變的，永遠是初衷：做音樂的初衷，或是從每一件事情找到樂趣的初衷。
+
+ 我們一直在說著「用溫柔推翻這個世界」，有時候，聽起來只為了製造效果的句子，但在心中溫暖自知。我覺得要眼前看見世界被推翻的確是很難的，但是你永遠不知道自己給出的一份力量，會不會推翻了某個人心中的世界。或許當下我們沒見世界被推翻，但我覺得在過程中，大家的成長與進步，理解世界的眼光，可以漸漸從去推翻世界，**進階到，無法被這個世界推翻。**
+
+
+
