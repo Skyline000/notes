@@ -1,6 +1,10 @@
 # Best quotes
 
-道愛，道謝，道歉，道別，這人生四道，很難。 one step at a time “落子無悔”，這就是付出，這就是選擇
+道愛，道謝，道歉，道別，這人生四道，很難。 
+
+one step at a time 
+
+“落子無悔”，這就是付出，這就是選擇
 
 when you feel impatient, is time to go slowly
 
