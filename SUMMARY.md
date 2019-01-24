@@ -37,6 +37,7 @@
 * [SQL](sql/README.md)
   * [Testing SQL query performance](sql/testing-sql-query-performance.md)
   * [For loop](sql/for-loop.md)
+  * [MySQL event task](sql/mysql-event-task.md)
 * [Java](java/README.md)
   * [Encrypt & Decrypt](java/encrypt-and-decrypt.md)
 * [JavaScript](javascript/README.md)
