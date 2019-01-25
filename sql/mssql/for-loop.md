@@ -2,7 +2,7 @@
 
 ## MSSQL
 
-```text
+```sql
 DECLARE @_MAX INT
 DECLARE @_i INT
 DECLARE	@return_value int

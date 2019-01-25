@@ -2,7 +2,7 @@
 
  MySQL event task
 
-```text
+```sql
 SET GLOBAL event_scheduler = ON;
 
 CREATE EVENT IF NOT EXISTS event_clean_trigger_memberinfo

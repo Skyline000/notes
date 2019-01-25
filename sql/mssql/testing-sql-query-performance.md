@@ -2,7 +2,7 @@
 
 
 
-```text
+```sql
 DBCC DROPCLEANBUFFERS
 DBCC FREEPROCCACHE 
 GO
@@ -12,7 +12,7 @@ SELECT * FROM MyTable
 
 
 
-```text
+```sql
 SET STATISTICS TIME ON
 GO
 
@@ -29,11 +29,11 @@ Include Actual Execution Plan \(Ctrl + M\)
 
 Include Client Statistics \(Shift + Alt + S\)
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 
 
