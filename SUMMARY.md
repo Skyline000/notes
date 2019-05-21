@@ -24,6 +24,7 @@
 * [Startup Operation](startup-operation.md)
 * [Best quotes](best-quotes/README.md)
   * [The gap between ‘have to’ and ‘get to’](best-quotes/the-gap-between-have-to-and-get-to.md)
+  * [管理者如何持續學習技術？](best-quotes/guan-li-zhe-ru-he-chi-ji.md)
 * [Logic gate](logic-gate.md)
 * [Debug skills](debug-skills/README.md)
   * [Process Monitor](debug-skills/process-monitor.md)
