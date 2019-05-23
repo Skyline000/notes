@@ -54,7 +54,7 @@ There's no controlling someone else's behavior, but how you react to it, that on
 
  一句話道出網路資訊安全:**人類才是系統中最大的漏洞**
 
-
+Hey Everyone can do it, but there is only one person did  it.
 
 
 
