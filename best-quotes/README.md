@@ -56,5 +56,5 @@ There's no controlling someone else's behavior, but how you react to it, that on
 
 Hey Everyone can do it, but there is only one person did  it.
 
-
+今天的運氣不好，難道跟上帝計較嗎？ 今天的天氣不好，難道要跟雨計較嗎？ 跟自己計較吧，去讓自己的力量更強，心更沉靜， 精神就是本質，靈魂會看見世界。 當你的欲求都不去向他人，就不會因為得不到而困頓而軟弱； 當你的要求都指向了自己，就會因想讓自己更好而充滿熱情。
 
