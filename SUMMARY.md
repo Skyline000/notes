@@ -1,13 +1,18 @@
 # Table of contents
 
 * [Notes](README.md)
-* [Linux](linux/README.md)
-  * [POST / GET](linux/post-get.md)
-* [CentOS](centos/README.md)
-  * [Install](centos/install.md)
-  * [Install ifconfig command](centos/install-ifconfig-command.md)
-  * [Open network interface](centos/open-network-interface.md)
-  * [Change SSH port](centos/change-ssh-port.md)
+* [Operating System](operating-system/README.md)
+  * [Linux](operating-system/linux/README.md)
+    * [POST / GET](operating-system/linux/post-get.md)
+    * [CentOS](operating-system/linux/centos/README.md)
+      * [Install](operating-system/linux/centos/install.md)
+      * [Install ifconfig command](operating-system/linux/centos/install-ifconfig-command.md)
+      * [Open network interface](operating-system/linux/centos/open-network-interface.md)
+      * [Change SSH port](operating-system/linux/centos/change-ssh-port.md)
+  * [Windows](operating-system/windows/README.md)
+    * [Windows problem](operating-system/windows/windows-problem/README.md)
+      * [File explorer slow responding](operating-system/windows/windows-problem/file-explorer-slow-responding.md)
+      * [MAX\_PATH issue](operating-system/windows/windows-problem/max_path-issue.md)
 * [Cryptography](cryptography/README.md)
   * [Stream Cipher](cryptography/stream-cipher.md)
   * [Block Cipher](cryptography/block-cipher/README.md)
@@ -30,9 +35,6 @@
   * [Process Monitor](debug-skills/process-monitor.md)
   * [Linux](debug-skills/linux.md)
   * [Using your browser’s debugger instead of using console.log\(\) to debug](debug-skills/using-your-browsers-debugger-instead-of-using-console.log-to-debug.md)
-* [Windows problem](windows-problem/README.md)
-  * [File explorer slow responding](windows-problem/file-explorer-slow-responding.md)
-  * [MAX\_PATH issue](windows-problem/max_path-issue.md)
 * [Git](git/README.md)
   * [Source tree link with GitLab](git/source-tree-link-with-gitlab.md)
   * [Only merge few commit from a branch](git/only-merge-few-commit-from-a-branch.md)
@@ -59,6 +61,7 @@
   * [Common Error](r/common-error.md)
 * [Computer Vision](computer-vision/README.md)
   * [Computer Vision VS Computer Graphics](computer-vision/computer-vision-vs-computer-graphics.md)
+* [Gitbook](gitbook.md)
 
 ## Testing
 
