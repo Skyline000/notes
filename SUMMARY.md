@@ -62,6 +62,7 @@
 * [Computer Vision](computer-vision/README.md)
   * [Computer Vision VS Computer Graphics](computer-vision/computer-vision-vs-computer-graphics.md)
 * [Gitbook](gitbook.md)
+* [Draft](draft.md)
 
 ## Testing
 
