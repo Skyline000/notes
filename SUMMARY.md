@@ -77,6 +77,10 @@
   * [Building Team Spirit](management-skills/management-skills/building-team-spirit.md)
   * [Reference](management-skills/management-skills/reference.md)
 
+## Book list
+
+* [Book list](book-list/untitled.md)
+
 ## Testing
 
 * [Highlight](testing/highlight.md)
