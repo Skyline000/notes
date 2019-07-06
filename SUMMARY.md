@@ -65,6 +65,18 @@
 * [Draft](draft/README.md)
   * [Untitled](draft/untitled.md)
 
+## Management Skills
+
+* [Management Skills](management-skills/management-skills/README.md)
+  * [Goals](management-skills/management-skills/goals/README.md)
+    * [持續學習技術](management-skills/management-skills/goals/chi-xu-xue-xi-ji-shu.md)
+    * [說話之道](management-skills/management-skills/goals/shui-hua-zhi-dao.md)
+  * [Company Expects](management-skills/management-skills/company-expects/README.md)
+    * [Make your own decisions](management-skills/management-skills/company-expects/make-your-own-decisions.md)
+  * [Effective Behaviors](management-skills/management-skills/effective-behaviors.md)
+  * [Building Team Spirit](management-skills/management-skills/building-team-spirit.md)
+  * [Reference](management-skills/management-skills/reference.md)
+
 ## Testing
 
 * [Highlight](testing/highlight.md)
