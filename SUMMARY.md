@@ -30,6 +30,7 @@
 * [Best quotes](best-quotes/README.md)
   * [The gap between ‘have to’ and ‘get to’](best-quotes/the-gap-between-have-to-and-get-to.md)
   * [管理者如何持續學習技術？](best-quotes/guan-li-zhe-ru-he-chi-ji.md)
+  * [The first 20 hours -- how to learn anything \| Josh Kaufman \| TEDxCSU - YouTube](best-quotes/the-first-20-hours-how-to-learn-anything-or-josh-kaufman-or-tedxcsu-youtube.md)
 * [Logic gate](logic-gate.md)
 * [Debug skills](debug-skills/README.md)
   * [Process Monitor](debug-skills/process-monitor.md)
