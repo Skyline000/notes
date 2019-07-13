@@ -76,6 +76,7 @@
     * [Make your own decisions](management-skills/management-skills/company-expects/make-your-own-decisions.md)
   * [Effective Behaviors](management-skills/management-skills/effective-behaviors.md)
   * [Building Team Spirit](management-skills/management-skills/building-team-spirit.md)
+  * [Systematization](management-skills/management-skills/systematization.md)
   * [Reference](management-skills/management-skills/reference.md)
 
 ## Book list
