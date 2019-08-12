@@ -60,7 +60,7 @@ Hey Everyone can do it, but there is only one person did  it.
 
 情商高是在保持體現自己情緒的同時，保持在不傷害他人的底線上。
 
-
+我不覺得舒適區一定是舒適的。更多的，其實是慣性吧。
 
 
 
