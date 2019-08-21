@@ -43,6 +43,8 @@
   * [MSSQL](sql/mssql/README.md)
     * [Testing SQL query performance](sql/mssql/testing-sql-query-performance.md)
     * [For loop](sql/mssql/for-loop.md)
+    * [Get size of all tables in database](sql/mssql/get-size-of-all-tables-in-database.md)
+    * [List all foreign keys referencing table](sql/mssql/list-all-foreign-keys-referencing-table.md)
   * [MYSQL](sql/mysql/README.md)
     * [MySQL event task](sql/mysql/mysql-event-task.md)
     * [Load file into table](sql/mysql/load-file-into-table.md)
