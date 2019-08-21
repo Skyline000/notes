@@ -11,7 +11,7 @@ This gives you:
 
 Code below:
 
-```text
+```sql
 SELECT  obj.name AS FK_NAME,
     sch.name AS [schema_name],
     tab1.name AS [table],
