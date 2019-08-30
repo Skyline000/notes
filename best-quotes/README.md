@@ -62,6 +62,14 @@ Hey Everyone can do it, but there is only one person did  it.
 
 我不覺得舒適區一定是舒適的。更多的，其實是慣性吧。
 
+Discipline yourself, learn independently, respect everyone.
+
+對自己的要求一定要超過別人對你的要求，否則你永遠不會進步。
+
+No need to always create new, reproduce also a way to learn.
+
+不要用太高標準要求別人，他不是你，去發現別人的優點。
+
 
 
 
