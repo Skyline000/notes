@@ -70,7 +70,7 @@ No need to always create new, reproduce also a way to learn.
 
 不要用太高標準要求別人，他不是你，去發現別人的優點。
 
-
+你應該改變自己，而不是怪罪他人。
 
 
 
