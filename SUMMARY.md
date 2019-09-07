@@ -32,6 +32,7 @@
   * [管理者如何持續學習技術？](best-quotes/guan-li-zhe-ru-he-chi-ji.md)
   * [The first 20 hours -- how to learn anything \| Josh Kaufman \| TEDxCSU - YouTube](best-quotes/the-first-20-hours-how-to-learn-anything-or-josh-kaufman-or-tedxcsu-youtube.md)
   * [The Secret to Unlimited Ideas for Your Coding Projects](best-quotes/the-secret-to-unlimited-ideas-for-your-coding-projects.md)
+  * [The Feynman Technique: The Best Way to Learn Anything](best-quotes/the-feynman-technique-the-best-way-to-learn-anything.md)
 * [Logic gate](logic-gate.md)
 * [Debug skills](debug-skills/README.md)
   * [Process Monitor](debug-skills/process-monitor.md)
