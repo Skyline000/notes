@@ -1,6 +1,6 @@
 # Stream Cipher
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 **Deterministic Algorithm** a.k.a. Keystream Generator
 
@@ -13,7 +13,7 @@
 
 
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 * Secret key length: 128 bits, 256 bits, etc. 
 * Maximum plaintext length: usually can be arbitrarily long.

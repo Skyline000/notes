@@ -4,13 +4,13 @@
 
 two 56-bit keys
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2895%29.png)
 
 ## DESX
 
 three keys
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 
 

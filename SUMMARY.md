@@ -11,6 +11,7 @@
       * [Change SSH port](operating-system/linux/centos/change-ssh-port.md)
   * [Windows](operating-system/windows/README.md)
     * [Windows problem](operating-system/windows/windows-problem/README.md)
+      * [Set a automatic ping test in Windows when startup](operating-system/windows/windows-problem/set-a-automatic-ping-test-in-windows-when-startup.md)
       * [File explorer slow responding](operating-system/windows/windows-problem/file-explorer-slow-responding.md)
       * [MAX\_PATH issue](operating-system/windows/windows-problem/max_path-issue.md)
 * [Cryptography](cryptography/README.md)

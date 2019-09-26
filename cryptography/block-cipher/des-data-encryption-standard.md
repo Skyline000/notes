@@ -1,6 +1,6 @@
 # DES \(Data Encryption Standard\)
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 * Ciphertext obtained from plaintext by iterating a **round function** \(i.e. cryptographic operations\) 
 * Input to round function consists of a **round key** Ki and the output of the previous round 
@@ -8,7 +8,7 @@
 
 
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2887%29.png)
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2886%29.png)
 

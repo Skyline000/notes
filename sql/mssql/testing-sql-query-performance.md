@@ -29,11 +29,11 @@ Include Actual Execution Plan \(Ctrl + M\)
 
 Include Client Statistics \(Shift + Alt + S\)
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
-![](../../.gitbook/assets/image%20%2884%29.png)
+![](../../.gitbook/assets/image%20%28105%29.png)
 
 
 
