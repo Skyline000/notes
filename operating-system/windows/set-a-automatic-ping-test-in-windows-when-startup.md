@@ -27,31 +27,31 @@ Only run bat also work fine, but the cmd can't hidden. If want to run it as a ba
 Better run as administrator
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 Enter the command want to execute `cmd /c C:\pingresult\pingtest.bat`
 
@@ -59,41 +59,41 @@ Enter the command want to execute `cmd /c C:\pingresult\pingtest.bat`
 Maybe better to specific the path
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%2894%29.png)
+![](../../.gitbook/assets/image%20%2894%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2888%29.png)
+![](../../.gitbook/assets/image%20%2888%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%2881%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2896%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 
 
-![](../../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 
 
 If below error occur, please run this wizard as administrator
 
-![](../../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
 ### Put the EXE in Startup folder.
 
@@ -107,9 +107,9 @@ If below error occur, please run this wizard as administrator
 C:\Users\Username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 ```
 
-![](../../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
-![](../../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 
 
