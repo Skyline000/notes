@@ -1,6 +1,10 @@
 # Set a automatic ping test in Windows when startup
 
-### Prepare a batch file for ping script
+## Prepare a batch file for ping script
+
+{% hint style="warning" %}
+Do not use reserved / special words to name the batch files, e.g. ping.bat.
+{% endhint %}
 
 {% code-tabs %}
 {% code-tabs-item title="pingtest.bat" %}
@@ -13,15 +17,31 @@ ping -t 127.0.0.1|cmd /q /v /c "(pause&pause)>nul & for /l %%a in () do (set /p 
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+[`@echo off`](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/echo) turns off the command echoing feature.
 
+Save the result to `C:\pingresult\result_%dt%.txt` with date in filename.
 
-### Create a EXE to execute 
+#### Sample output
+
+{% code-tabs %}
+{% code-tabs-item title="result\_20190928.txt" %}
+```text
+28/09/2019 22:09:48.45 Pinging 127.0.0.1 with 32 bytes of data:
+28/09/2019 22:09:49.46 Reply from 127.0.0.1: bytes=32 time<1ms TTL=128
+28/09/2019 22:09:50.48 Reply from 127.0.0.1: bytes=32 time<1ms TTL=128
+28/09/2019 22:09:51.49 Reply from 127.0.0.1: bytes=32 time<1ms TTL=128
+28/09/2019 22:09:52.50 Reply from 127.0.0.1: bytes=32 time<1ms TTL=128
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+## Create a EXE to execute 
 
 {% hint style="info" %}
-Only run bat also work fine, but the cmd can't hidden. If want to run it as a background job, do the following steps.
+Only run batch file also work fine, but the cmd can't be hidden. If want to run it as a background job, then create a EXE and put in startup folder to run at PC startup.
 {% endhint %}
 
-1. Type "iexpress" and open it
+Type "iexpress" and open it.
 
 {% hint style="info" %}
 Better run as administrator
@@ -49,11 +69,11 @@ Better run as administrator
 
 ![](../../.gitbook/assets/image%20%2837%29.png)
 
-
+Add the batch file that prepare before.
 
 ![](../../.gitbook/assets/image%20%2811%29.png)
 
-Enter the command want to execute `cmd /c C:\pingresult\pingtest.bat`
+Enter the command want to execute, e.g. `cmd /c C:\pingresult\pingtest.bat`
 
 {% hint style="info" %}
 Maybe better to specific the path
@@ -61,7 +81,7 @@ Maybe better to specific the path
 
 ![](../../.gitbook/assets/image%20%2894%29.png)
 
-
+Select "Hidden" to hidden the cmd window.
 
 ![](../../.gitbook/assets/image%20%2888%29.png)
 
@@ -69,7 +89,7 @@ Maybe better to specific the path
 
 ![](../../.gitbook/assets/image%20%2881%29.png)
 
-
+Enter the path want to save the EXE.
 
 ![](../../.gitbook/assets/image%20%2845%29.png)
 
@@ -89,19 +109,17 @@ Maybe better to specific the path
 
 ![](../../.gitbook/assets/image.png)
 
-
-
-If below error occur, please run this wizard as administrator
+{% hint style="warning" %}
+If below error occur, please run this wizard as administrator.
+{% endhint %}
 
 ![](../../.gitbook/assets/image%20%2846%29.png)
 
-### Put the EXE in Startup folder.
+## Put the EXE in Startup folder.
 
-1. [Create a shortcut](https://www.computerhope.com/issues/ch000739.htm) to the batch file.
-2. Once the shortcut is created, [right-click](https://www.computerhope.com/jargon/r/righclic.htm) the shortcut file and select **Cut**.
-3. Press [**Start**](https://www.computerhope.com/jargon/s/start.htm), type **Run**, and press Enter.
-4. In the Run window, type **shell:startup** to open the Startup folder.
-5. Once the Startup folder is opened, click the **Home** tab at the top of the folder and select **Paste** to [paste](https://www.computerhope.com/jargon/p/paste.htm) the shortcut file into the Startup folder.
+1. Press **Start**, type **Run**, and press Enter.
+2. In the Run window, type **shell:startup** to open the Startup folder.
+3. Once the Startup folder is opened, paste the EXE file into the Startup folder.
 
 ```text
 C:\Users\Username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
