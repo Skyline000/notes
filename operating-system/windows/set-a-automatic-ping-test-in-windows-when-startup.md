@@ -51,11 +51,11 @@ Better run as administrator
 
 
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 
 
@@ -63,7 +63,7 @@ Better run as administrator
 
 
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
 
 
@@ -79,15 +79,15 @@ Enter the command want to execute, e.g. `cmd /c C:\pingresult\pingtest.bat`
 Maybe better to specific the path
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2894%29.png)
+![](../../.gitbook/assets/image%20%2895%29.png)
 
 Select "Hidden" to hidden the cmd window.
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%2882%29.png)
 
 Enter the path want to save the EXE.
 
@@ -95,11 +95,11 @@ Enter the path want to save the EXE.
 
 
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2897%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
 
 

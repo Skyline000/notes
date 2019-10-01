@@ -1,4 +1,27 @@
+---
+description: Linux是一種自由和開放原始碼的類UNIX 作業系統。
+---
+
 # Linux
+
+### Linux kernel \(Linux 核心版本\) vs Linux distribution \(Linux 發佈商版本\)
+
+將Linux Kernel\(含tools\)與可運行的軟體整合起來，加上工具程式， 這個工具程式可以讓使用者以光碟/DVD或者透過網路直接安裝/管理Linux系統。 這個『Kernel + Softwares + Tools + 可完整安裝程序』的咚咚，我們稱之為Linux distribution。
+
+![](../../.gitbook/assets/image%20%2852%29.png)
+
+> 因此，如果以CentOS這個distribution來說， 應該說：『我用的Linux是CentOS這個 distribution，版本為7.x 版，請問....』才對喔！
+
+### 各大Linux Distributions的主要異同
+
+ 每個Linux distributions使用的kernel都是[http://www.kernel.org](http://www.kernel.org/)所釋出的，而他們所選擇的軟體，幾乎都是目前很知名的軟體，重複性相當的高， 例如網頁伺服器的Apache，電子郵件伺服器的Postfix/sendmail，檔案伺服器的Samba等等。還有Linux Standard Base \(LSB\)等標準來規範開發者，以及目錄架構的File system Hierarchy Standard \(FHS\)標準規範。唯一差別的，可能就是該開發者自家所開發出來的管理工具，以及套件管理的模式吧。所以，基本上，每個Linux distributions除了架構的嚴謹度與選擇的套件內容外， 其實差異並不太大。
+
+|  | RPM 軟體管理 | DPKG 軟體管理 | 其他未分類 |
+| :--- | :--- | :--- | :--- |
+| 商業公司 | RHEL \(Red Hat 公司\) SuSE \(Micro Focus\) | Ubuntu \(Canonical Ltd.\) |  |
+| 社群單位 | Fedora CentOS OpenSuSE | Debian B2D | Gentoo |
+
+
 
 ## UNIX
 
@@ -28,6 +51,8 @@ Linux和Unix的最大的區別是，前者是開發源代碼的自由軟體，�
 
 ## Reference
 
+{% embed url="http://linux.vbird.org/linux\_basic/0110whatislinux.php" %}
+
 {% embed url="https://zh.wikipedia.org/zh-hk/UNIX" %}
 
 {% embed url="https://coctec.com/docs/linux/show-post-52472.html" %}
@@ -35,8 +60,4 @@ Linux和Unix的最大的區別是，前者是開發源代碼的自由軟體，�
 {% embed url="https://ithelp.ithome.com.tw/articles/10210448" %}
 
 {% embed url="https://www.zhihu.com/question/24217234" %}
-
-{% embed url="http://linux.vbird.org/linux\_basic/0110whatislinux.php" %}
-
-
 

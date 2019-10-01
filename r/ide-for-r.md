@@ -10,7 +10,7 @@ It is free for only the UI.
 
 ## Executing Code
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 #### Executing a Single Line
 
