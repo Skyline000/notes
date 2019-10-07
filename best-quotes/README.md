@@ -72,7 +72,7 @@ No need to always create new, reproduce also a way to learn.
 
 你應該改變自己，而不是怪罪他人。
 
-
+“其實沒有必要這麼拼吧”？有的，如果你有著某種覺悟，想要完成某些東西。那麼就有的，有必要這麼拼的。
 
 
 
