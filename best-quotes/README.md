@@ -74,7 +74,7 @@ No need to always create new, reproduce also a way to learn.
 
 “其實沒有必要這麼拼吧”？有的，如果你有著某種覺悟，想要完成某些東西。那麼就有的，有必要這麼拼的。
 
-
+If you work hard enough in something, no matter what it is, you will become a master, at that, and money will become a by-product.
 
 
 
