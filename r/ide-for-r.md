@@ -1,4 +1,4 @@
-# IDE for R
+# RStudio \(IDE for R\)
 
 ## RStudio
 

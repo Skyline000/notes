@@ -65,7 +65,7 @@
   * [Install package by pip](python/install-package-by-pip.md)
   * [Python 中的 if \_\_name\_\_ == '\_\_main\_\_' 该如何理解](python/python-zhong-de-if-name-main-gai-ru-he-li-jie.md)
 * [R](r/README.md)
-  * [IDE for R](r/ide-for-r.md)
+  * [RStudio \(IDE for R\)](r/ide-for-r.md)
   * [Common Error](r/common-error.md)
 * [Computer Vision](computer-vision/README.md)
   * [Computer Vision VS Computer Graphics](computer-vision/computer-vision-vs-computer-graphics.md)
