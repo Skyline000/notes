@@ -4,8 +4,7 @@
 Forbidden - _You don't have permission to Access / on this server_
 {% endhint %}
 
-{% code-tabs %}
-{% code-tabs-item title="C:\\wamp64\\bin\\apache\\apache2.4.18\\conf\\extra\\httpd-vhosts.conf" %}
+{% code title="C:\\wamp64\\bin\\apache\\apache2.4.18\\conf\\extra\\httpd-vhosts.conf" %}
 ```text
 #
 # Virtual Hosts
@@ -22,11 +21,9 @@ Forbidden - _You don't have permission to Access / on this server_
 	</Directory>
 </VirtualHost>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
-{% code-tabs %}
-{% code-tabs-item title="C:\\wamp64\\bin\\apache\\apache2.4.18\\conf\\httpd.conf" %}
+{% code title="C:\\wamp64\\bin\\apache\\apache2.4.18\\conf\\httpd.conf" %}
 ```text
 DocumentRoot "c:/wamp64/www"
 <Directory "c:/wamp64/www/">
@@ -64,6 +61,5 @@ DocumentRoot "c:/wamp64/www"
 	#Allow from 127.0.0.1
 </Directory>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 

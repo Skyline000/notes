@@ -6,16 +6,14 @@
 Do not use reserved / special words to name the batch files, e.g. ping.bat.
 {% endhint %}
 
-{% code-tabs %}
-{% code-tabs-item title="pingtest.bat" %}
+{% code title="pingtest.bat" %}
 ```bash
 @echo off
 for /f "delims=" %%a in ('wmic OS Get localdatetime  ^| find "."') do set dt=%%a
 set dt=%dt:~0,8%%
 ping -t 127.0.0.1|cmd /q /v /c "(pause&pause)>nul & for /l %%a in () do (set /p "data=" && echo(!date! !time! !data!)&ping -n 2 127.0.0.1>nul" >> C:\pingresult\result_%dt%.txt
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 [`@echo off`](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/echo) turns off the command echoing feature.
 
@@ -23,8 +21,7 @@ Save the result to `C:\pingresult\result_%dt%.txt` with date in filename.
 
 #### Sample output
 
-{% code-tabs %}
-{% code-tabs-item title="result\_20190928.txt" %}
+{% code title="result\_20190928.txt" %}
 ```text
 28/09/2019 22:09:48.45 Pinging 127.0.0.1 with 32 bytes of data:
 28/09/2019 22:09:49.46 Reply from 127.0.0.1: bytes=32 time<1ms TTL=128
@@ -32,8 +29,7 @@ Save the result to `C:\pingresult\result_%dt%.txt` with date in filename.
 28/09/2019 22:09:51.49 Reply from 127.0.0.1: bytes=32 time<1ms TTL=128
 28/09/2019 22:09:52.50 Reply from 127.0.0.1: bytes=32 time<1ms TTL=128
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Create a EXE to execute 
 
