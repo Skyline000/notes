@@ -5,6 +5,7 @@
   * [Linux](operating-system/linux/README.md)
     * [Linux Command](operating-system/linux/linux-command/README.md)
       * [POST / GET](operating-system/linux/linux-command/post-get.md)
+      * [Counting Files in the Current Directory](operating-system/linux/linux-command/counting-files-in-the-current-directory.md)
     * [CentOS](operating-system/linux/centos/README.md)
       * [Install](operating-system/linux/centos/install.md)
       * [Install ifconfig command](operating-system/linux/centos/install-ifconfig-command.md)
