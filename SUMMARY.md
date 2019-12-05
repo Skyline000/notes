@@ -41,6 +41,7 @@
   * [Process Monitor](debug-skills/process-monitor.md)
   * [Linux](debug-skills/linux.md)
   * [Using your browser’s debugger instead of using console.log\(\) to debug](debug-skills/using-your-browsers-debugger-instead-of-using-console.log-to-debug.md)
+  * [Process Explorer](debug-skills/process-explorer.md)
 * [Git](git/README.md)
   * [Source tree link with GitLab](git/source-tree-link-with-gitlab.md)
   * [Only merge few commit from a branch](git/only-merge-few-commit-from-a-branch.md)
