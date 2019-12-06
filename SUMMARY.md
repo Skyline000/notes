@@ -14,6 +14,7 @@
   * [Windows](operating-system/windows/README.md)
     * [Set a automatic ping test in Windows when startup](operating-system/windows/set-a-automatic-ping-test-in-windows-when-startup.md)
     * [Windows problem](operating-system/windows/windows-problem/README.md)
+      * [Merge files in cmd](operating-system/windows/windows-problem/merge-files-in-cmd.md)
       * [File explorer slow responding](operating-system/windows/windows-problem/file-explorer-slow-responding.md)
       * [MAX\_PATH issue](operating-system/windows/windows-problem/max_path-issue.md)
 * [Cryptography](cryptography/README.md)
