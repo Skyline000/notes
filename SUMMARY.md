@@ -13,6 +13,7 @@
       * [Change SSH port](operating-system/linux/centos/change-ssh-port.md)
   * [Windows](operating-system/windows/README.md)
     * [Set a automatic ping test in Windows when startup](operating-system/windows/set-a-automatic-ping-test-in-windows-when-startup.md)
+    * [Mass Mailings using Outlook, Word, and Excel](operating-system/windows/mass-mailings-using-outlook-word-and-excel.md)
     * [Windows problem](operating-system/windows/windows-problem/README.md)
       * [Merge files in cmd](operating-system/windows/windows-problem/merge-files-in-cmd.md)
       * [File explorer slow responding](operating-system/windows/windows-problem/file-explorer-slow-responding.md)
