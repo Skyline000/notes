@@ -3,6 +3,7 @@
 * [Notes](README.md)
 * [Operating System](operating-system/README.md)
   * [Linux](operating-system/linux/README.md)
+    * [Configure Apache Password Authentication](operating-system/linux/configure-apache-password-authentication.md)
     * [Linux Command](operating-system/linux/linux-command/README.md)
       * [POST / GET](operating-system/linux/linux-command/post-get.md)
       * [Counting Files in the Current Directory](operating-system/linux/linux-command/counting-files-in-the-current-directory.md)
