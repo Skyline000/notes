@@ -76,7 +76,7 @@ No need to always create new, reproduce also a way to learn.
 
 If you work hard enough in something, no matter what it is, you will become a master, at that, and money will become a by-product.
 
-
+一切有為法，如夢幻泡影，如露亦如電，應作如是觀。— 金剛經
 
 
 
