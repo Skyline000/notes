@@ -8,6 +8,7 @@
 
 ```sql
 select
+kcu.table_schema as 'Table Schema',
 fks.constraint_name as FK_NAME,
 kcu.table_name as 'referencing table',
 kcu.column_name as 'referencing column',
