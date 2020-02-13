@@ -1,4 +1,4 @@
-# Get size of all tables in database
+# Get size of all tables in database \(MSSQL\)
 
 ## Way 1 \(SQL\)
 
