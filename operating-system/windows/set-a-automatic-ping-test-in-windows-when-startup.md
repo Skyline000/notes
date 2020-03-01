@@ -43,15 +43,15 @@ Type "iexpress" and open it.
 Better run as administrator
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 
 
@@ -59,11 +59,11 @@ Better run as administrator
 
 
 
-![](../../.gitbook/assets/image%20%2877%29.png)
+![](../../.gitbook/assets/image%20%2885%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 Add the batch file that prepare before.
 
@@ -75,31 +75,31 @@ Enter the command want to execute, e.g. `cmd /c C:\pingresult\pingtest.bat`
 Maybe better to specific the path
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](../../.gitbook/assets/image%20%28105%29.png)
 
 Select "Hidden" to hidden the cmd window.
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
 Enter the path want to save the EXE.
 
+![](../../.gitbook/assets/image%20%2847%29.png)
+
+
+
+![](../../.gitbook/assets/image%20%28107%29.png)
+
+
+
+![](../../.gitbook/assets/image%20%2864%29.png)
+
+
+
 ![](../../.gitbook/assets/image%20%2845%29.png)
-
-
-
-![](../../.gitbook/assets/image%20%2897%29.png)
-
-
-
-![](../../.gitbook/assets/image%20%2860%29.png)
-
-
-
-![](../../.gitbook/assets/image%20%2843%29.png)
 
 
 
@@ -109,7 +109,7 @@ Enter the path want to save the EXE.
 If below error occur, please run this wizard as administrator.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 ## Put the EXE in Startup folder.
 
@@ -121,7 +121,7 @@ If below error occur, please run this wizard as administrator.
 C:\Users\Username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 ```
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 ![](../../.gitbook/assets/image%20%2820%29.png)
 

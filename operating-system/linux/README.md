@@ -8,7 +8,7 @@ description: Linux是一種自由和開放原始碼的類UNIX 作業系統。
 
 將Linux Kernel\(含tools\)與可運行的軟體整合起來，加上工具程式， 這個工具程式可以讓使用者以光碟/DVD或者透過網路直接安裝/管理Linux系統。 這個『Kernel + Softwares + Tools + 可完整安裝程序』的咚咚，我們稱之為Linux distribution。
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 > 因此，如果以CentOS這個distribution來說， 應該說：『我用的Linux是CentOS這個 distribution，版本為7.x 版，請問....』才對喔！
 

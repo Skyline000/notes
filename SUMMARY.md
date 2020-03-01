@@ -68,6 +68,8 @@
   * [Error](apache-1/error/README.md)
     * [Forbidden](apache-1/error/apache.md)
 * [Python](python/README.md)
+  * [Anaconda \(Python distribution\)](python/anaconda-python-distribution/README.md)
+    * [Switching between Python 2 and Python 3 environments](python/anaconda-python-distribution/switching-between-python-2-and-python-3-environments.md)
   * [Installation](python/installation.md)
   * [Install package by pip](python/install-package-by-pip.md)
   * [Python 中的 if \_\_name\_\_ == '\_\_main\_\_' 该如何理解](python/python-zhong-de-if-name-main-gai-ru-he-li-jie.md)
