@@ -78,7 +78,7 @@ If you work hard enough in something, no matter what it is, you will become a ma
 
 一切有為法，如夢幻泡影，如露亦如電，應作如是觀。— 金剛經
 
-
+在不傷害他人、尊重他人的情況下，做自己會快樂的事情就好了吧。
 
 
 
