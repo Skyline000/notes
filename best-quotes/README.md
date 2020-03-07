@@ -84,7 +84,7 @@ If you work hard enough in something, no matter what it is, you will become a ma
 
 生活不只是上班/工作，要24小時都工作嗎？
 
-
+脾氣—可以嚴，但唔可以兇。
 
 
 
