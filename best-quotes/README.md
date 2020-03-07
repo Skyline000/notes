@@ -80,9 +80,9 @@ If you work hard enough in something, no matter what it is, you will become a ma
 
 在不傷害他人、尊重他人的情況下，做自己會快樂的事情就好了吧。
 
+比你資深的人比你努力，你可以不努力嗎？
 
-
-
+生活不只是上班/工作，要24小時都工作嗎？
 
 
 
