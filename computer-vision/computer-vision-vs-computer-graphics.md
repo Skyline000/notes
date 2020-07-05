@@ -44,5 +44,7 @@ Computer Graphics: creating images, videos from scratch using computers.
       </td>
     </tr>
   </tbody>
-</table>Reference: [https://www.youtube.com/watch?v=ZFR7GpjqGp8](https://www.youtube.com/watch?v=ZFR7GpjqGp8)
+</table>
+
+Reference: [https://www.youtube.com/watch?v=ZFR7GpjqGp8](https://www.youtube.com/watch?v=ZFR7GpjqGp8)
 

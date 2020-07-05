@@ -6,11 +6,11 @@
 
 It is free for only the UI.
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 ## Executing Code
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2869%29%20%281%29.png)
 
 #### Executing a Single Line
 

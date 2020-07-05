@@ -1,6 +1,6 @@
 # Configure Apache Password Authentication
 
-![](../../.gitbook/assets/image%20%28118%29.png)
+![](../../.gitbook/assets/image%20%28108%29.png)
 
 ##  **步驟一、產生htpasswd**
 

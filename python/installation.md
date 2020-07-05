@@ -2,11 +2,11 @@
 
 Download from: [https://www.python.org/](https://www.python.org/)
 
-![On the first screen, enable the &#x201C;Add Python 3.6 to PATH&#x201D; option](../.gitbook/assets/image%20%2842%29.png)
+![On the first screen, enable the &#x201C;Add Python 3.6 to PATH&#x201D; option](../.gitbook/assets/image%20%2840%29.png)
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2868%29%20%281%29.png)
 
-![Change install location to a shorter path](../.gitbook/assets/image%20%2831%29.png)
+![Change install location to a shorter path](../.gitbook/assets/image%20%2829%29.png)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 

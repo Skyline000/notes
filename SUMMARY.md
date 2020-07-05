@@ -15,6 +15,7 @@
   * [Windows](operating-system/windows/README.md)
     * [Set a automatic ping test in Windows when startup](operating-system/windows/set-a-automatic-ping-test-in-windows-when-startup.md)
     * [Mass Mailings using Outlook, Word, and Excel](operating-system/windows/mass-mailings-using-outlook-word-and-excel.md)
+    * [Nox BSOD \(Bluescreen Sudden of Death\)](operating-system/windows/nox-bsod-bluescreen-sudden-of-death.md)
     * [Windows problem](operating-system/windows/windows-problem/README.md)
       * [Merge files in cmd](operating-system/windows/windows-problem/merge-files-in-cmd.md)
       * [File explorer slow responding](operating-system/windows/windows-problem/file-explorer-slow-responding.md)

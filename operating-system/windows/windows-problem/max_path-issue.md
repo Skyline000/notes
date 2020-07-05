@@ -10,9 +10,9 @@
 
  `Computer Configuration` -&gt; `Admin Templates` -&gt; `System` -&gt; `FileSystem`
 
-![](../../../.gitbook/assets/image%20%2859%29.png)
+![](../../../.gitbook/assets/image%20%2856%29.png)
 
-![](../../../.gitbook/assets/image%20%2866%29.png)
+![](../../../.gitbook/assets/image%20%2862%29.png)
 
 Reference: [https://stackoverflow.com/questions/27680647/does-max-path-issue-still-exists-in-windows-10](https://stackoverflow.com/questions/27680647/does-max-path-issue-still-exists-in-windows-10)
 
