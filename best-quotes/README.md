@@ -86,7 +86,7 @@ If you work hard enough in something, no matter what it is, you will become a ma
 
 脾氣—可以嚴，但唔可以兇。
 
-
+其實大部分事情都應該是浮雲的，聚集成雨，你就感受濕度；風吹開了，你就看見天空。
 
 
 
